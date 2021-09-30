@@ -28,3 +28,7 @@ sudo apt install apache2
 >#After apache2 is successfully installed, verify that apache2 is running as a service on Ubuntu using the following commands
 
 sudo systemctl status apache2
+
+The output is similar to the below screenshot
+
+![apache-verification](https://user-images.githubusercontent.com/40571508/135532326-9e51a794-0b05-4c54-a1e5-90cb0d4465af.PNG)
